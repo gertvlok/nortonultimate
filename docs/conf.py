@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Norton Ultimate'
+project = 'ultimatenorttn'
 copyright = '2025'
-author = 'Cecile Cilliers'
+author = 'Can Themba'
 
 release = '1.0'
 
